@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Mathias Jiya
 - 👀 I’m interested in Backend developement
-- 🌱 This is my current github profile github.com/hisyntax
+- 🌱 This is my current github profile [github.com/hisyntax](https://github.com/hisyntax)
